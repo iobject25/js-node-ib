@@ -1,17 +1,18 @@
 {
-  "name": "ib",
+  "name": "@s1mple/js-node-ib",
+  "author": "s1mple",
+  "repository": "git://github.com/s1mple/js-node-ib.git",
+  "license": "UNLICENSED",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "description": "Interactive Brokers TWS (or IB Gateway) API client library for Node.js",
   "version": "0.2.7",
-  "license": "MIT",
   "author": {
-    "name": "Pilwon Huh",
-    "email": "pilwon@gmail.com"
+    "name": "Matthew Piskorz",
+    "email": "matthew@matthewpiskorz.com"
   },
   "homepage": "https://github.com/pilwon/node-ib",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/pilwon/node-ib.git"
-  },
   "keywords": [
     "interactive",
     "brokers",
